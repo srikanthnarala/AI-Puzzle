@@ -1,4 +1,4 @@
-package sri;
+package BFS;
 
 import java.util.*;
 import java.util.Scanner;
@@ -22,3 +22,4 @@ class testMain {
     }
 
 }
+

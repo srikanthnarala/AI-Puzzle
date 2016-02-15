@@ -1,5 +1,5 @@
-package sri;
+package BFS;
 
 public enum algoEnum {
-  BFS
-}
+	  BFS
+	}

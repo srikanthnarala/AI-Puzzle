@@ -1,4 +1,4 @@
-package sri;
+package BFS;
 
 import java.util.Scanner;
 
